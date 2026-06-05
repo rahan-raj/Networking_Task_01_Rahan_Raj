@@ -30,7 +30,7 @@ The purpose of this task is to understand the basic components of a network and 
  Think of it like your home address, but for your device on a network. It tells other devices where to send data. Ex. 192.168.1.9
 
 ### What is a MAC Address?
-A permanent, unique ID created into your network card by the manufacturer. Unlike an IP address, it never changes. Ex. 00:1b:63:84:45:e6
+A permanent, unique ID created into your network card by the manufacturer. Unlike an IP address, it never changes. Ex. 00:1b:63:84:xx:xx
 
 ### What is a Default Gateway?
  It is known as the ”exit point”or "front door" for your device when you need to connect with another network. When you want to reach the internet, your data first goes to the gateway (usually your router).
