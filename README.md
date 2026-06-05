@@ -16,7 +16,7 @@ The purpose of this task is to understand the basic components of a network and 
 |---|---|
 | Hostname | DESKTOP-L3P3HQF |
 | IPv4 Address | 192.168.1.9 |
-| MAC Address | 70-77-81-2B-36-05 |
+| MAC Address | 70-77-81-2B-xx-xx |
 | Default Gateway | 192.168.1.1 |
 | DNS Server | 8.8.8.8 |
 
